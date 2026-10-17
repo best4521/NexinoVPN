@@ -53,8 +53,8 @@
 
 کنار هر نسخه در بخش Releases، کد **SHA-256** فایل‌ها نوشته شده است. فایل دانلودشده باید دقیقاً همان کد را داشته باشد.
 
-- ویندوز (PowerShell): `Get-FileHash .\NexinoVPN-1.0.9.apk -Algorithm SHA256`
-- لینوکس / مک: `sha256sum NexinoVPN-1.0.9.apk`
+- ویندوز (PowerShell): `Get-FileHash .\NexinoVPN-1.0.10.apk -Algorithm SHA256`
+- لینوکس / مک: `sha256sum NexinoVPN-1.0.10.apk`
 
 فایل‌ها فقط از همین صفحه یا از سایت رسمی `nex.2928.ir` دانلود شوند.
 
